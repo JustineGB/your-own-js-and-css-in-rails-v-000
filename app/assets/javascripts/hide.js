@@ -1,3 +1,3 @@
 function hideWhenClicked(){
-  this.parentNode.style.display = 'none';
+  $(this).parent().hide();
 }
