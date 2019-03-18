@@ -1,5 +1,4 @@
-.error {
-  a {
+.error a {
     color: red;
     text-decoration: none;
   }
@@ -8,4 +7,3 @@
     color: #ff1a1a;
     text-decoration: underline;
   }
-}
