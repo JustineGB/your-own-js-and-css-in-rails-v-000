@@ -1,9 +1,9 @@
-.error a {
+.error {
     color: red;
     text-decoration: none;
   }
   
- .cool-background body {
+ .cool-background {
     color: #ff1a1a;
     text-decoration: underline;
   }
